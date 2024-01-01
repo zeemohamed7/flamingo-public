@@ -1,0 +1,34 @@
+.button-container {
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+  }
+  .button {
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #f08daa; /* Darker pink shade */
+
+    color: #fff;
+
+
+    
+    }
+
+    
+    .button:hover {
+    background-color: #ee6d92;
+
+    }
+
+.form-container {
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    margin: 0; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    padding: 20px;
+
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/flamingo/static/css/main.abb06132.css",
+    "main.js": "/flamingo/static/js/main.18152b84.js",
+    "static/js/787.28cb0dcd.chunk.js": "/flamingo/static/js/787.28cb0dcd.chunk.js",
+    "static/media/mm.png": "/flamingo/static/media/mm.b5b67c72a4e6d0ead3ba.png",
+    "static/media/cj.png": "/flamingo/static/media/cj.f566c674e4a43c8d5e51.png",
+    "static/media/flammy.png": "/flamingo/static/media/flammy.82a4476e80b731138a86.png",
+    "index.html": "/flamingo/index.html",
+    "main.abb06132.css.map": "/flamingo/static/css/main.abb06132.css.map",
+    "main.18152b84.js.map": "/flamingo/static/js/main.18152b84.js.map",
+    "787.28cb0dcd.chunk.js.map": "/flamingo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb06132.css",
+    "static/js/main.18152b84.js"
+  ]
+}

@@ -1,0 +1,43 @@
+/* Add custom CSS for your pink-themed music section */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    }
+#music-section {
+    background-color: #FAC8D6;
+    padding: 20px;
+  text-align: center;
+
+  }
+  
+  .song {
+    /* background-color: #FFD7E5; */
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .song h3 {
+    color: #FF1493;
+  }
+  
+  .song p {
+    color: white;
+  }
+
+button {
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff69b4;
+    color: #fff;
+    
+    }
+    
+button:hover {
+      background-color: #ff5a9e; /* Darker pink shade */
+    }
