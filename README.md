@@ -46,5 +46,5 @@ Access Flamingo:
 Once the application is running, you can access Flamingo through your web browser at http://localhost:3000 or the specified port.
 
 ### Acknowledgements
-I would like to express my gratitude to the inspiration for this project, nicknamed "Flammy".
+I want to acknowledge and thank the inspiration to this project, @NoorSharaf, who will always hold a prominent place in my heart. 
 
